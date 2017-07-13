@@ -7,7 +7,7 @@ folium<br />
 
 Shows a location of volcanoes based on collected data from files (included).
 
-How to run the programme:
+How to run the app:
 
 Requires Python version 2.X to be installed. If you do not have Python please visit: https://www.python.org/downloads/ and follow the instructions.
 <hr>
