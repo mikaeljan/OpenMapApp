@@ -18,6 +18,7 @@ open a command line in the same working directory as your OpenMap files are and 
 App was created while doing an [course](https://www.udemy.com/the-python-mega-course/learn/v4/overview) on www.udemy.com.
 I do not own the originally collected data.
 
-In case of any questions, you can contact me @:<br />
-mikael.janek@gmail.com<br />
+## Contact
+For any questions please feel free to contact me:<br />
+<a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
 @mikael.janek
