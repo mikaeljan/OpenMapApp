@@ -21,4 +21,3 @@ I do not own the originally collected data.
 ## Contact
 For any questions please feel free to contact me:<br />
 <a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
-@mikael.janek
