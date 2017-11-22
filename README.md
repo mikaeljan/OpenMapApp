@@ -14,8 +14,6 @@ Provided that you do have python:
 
 Open a command line in the same working directory as your OpenMap files are and type in : python mapapp.py
 
-App was created while doing an [course](https://www.udemy.com/the-python-mega-course/learn/v4/overview) on www.udemy.com.
-I do not own the originally collected data.
 
 ## Contact
 For any questions please feel free to contact me:<br />
